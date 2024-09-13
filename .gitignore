@@ -7,3 +7,4 @@ src/
 # Ignorar archivos específicos
 package-lock.json
 package.json
+babel.config.json
