@@ -1,0 +1,9 @@
+touch .gitignore
+
+# Ignorar directorios específicos
+node_modules/
+src/
+
+# Ignorar archivos específicos
+package-lock.json
+package.json
